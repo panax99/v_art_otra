@@ -32,7 +32,7 @@ function Header(){
                 <div className={"container "+header.l7}>
                     <a href="/" className={header.link}>Login</a>
                 </div>
-                <div className={"container "+header.l8}>
+                <div className={header.l8}>
                     <a href="/" className={header.link}>Sign-Up</a>
                 </div>
            </div>

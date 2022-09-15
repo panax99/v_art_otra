@@ -1,0 +1,5 @@
+.background{
+  background-image: url("image/BACKGROUND.jpeg");
+  background-size: cover;
+  background-position: right -5px; 
+}

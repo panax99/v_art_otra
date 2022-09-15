@@ -1,0 +1,94 @@
+.img{
+    width: 1340px;
+    height: 200px;
+}
+.tt{
+  margin-left: 475px;
+  margin-top: 20px;
+}
+.p{
+    margin: left 76px;
+}
+.b{
+    margin-left: 76px;
+}
+.card{
+    margin-left: 89px;
+    width: 360px;
+}
+.c_1{
+    margin-top: -193px;
+    margin-left: 495px;
+}
+.c_2{
+    margin-top: -193px;
+    margin-left: 900px;
+}
+.ct1{
+    background: blue;
+    width: 580px;
+    height: 200px;
+    margin-left: 85px;
+    margin-top: 20px;
+}
+.ct2{
+    background: red;
+    width: 580px;
+    height: 200px;
+    margin-left: 685px;
+    margin-top: -200px;
+}
+.ct3{
+    background:green;
+    width: 580px;
+    height: 200px;
+    margin-left: 85px;
+    margin-top: 20px;
+}
+.ct4{
+    background:yellow;
+    width: 580px;
+    height: 200px;
+    margin-left: 685px;
+    margin-top: -200px;
+    margin-bottom: 30px;
+}
+.ll1{
+    margin-top: 260px;
+    margin-left: 450px;
+    text-decoration: none;
+    color:white;
+    font-size: 30px;
+}
+.ll2{
+    margin-top: 60px;
+    margin-left: 450px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.ll3{
+    margin-top: 60px;
+    margin-left: 450px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.ll4{
+    margin-top: 60px;
+    margin-left: 450px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.fill{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 20%
+}

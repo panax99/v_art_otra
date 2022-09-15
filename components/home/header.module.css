@@ -1,0 +1,67 @@
+.a{
+    height: 136px;
+  
+}
+
+.link{
+    color: white;
+    font-size:larger;
+    font-weight:bolder;
+    text-decoration: none;
+}
+
+.title{
+    position: absolute;
+    left: 100px;
+    top: 25px;
+}
+
+.l1{
+    position: absolute;
+    left: 150px;
+    top: 90px;
+}
+.l2{
+    position: absolute;
+    left: 280px;
+    top: 90px;
+}
+.l3{
+    position: absolute;
+    left: 410px;
+    top: 90px;
+}
+.l4{
+    position: absolute;
+    left: 565px;
+    top: 90px;
+}
+.l5{
+    position: absolute;
+    left: 730px;
+    top: 90px;
+}
+.l6{
+    position: absolute;
+    left: 860px;
+    top: 90px;
+}
+.l7{
+    position: absolute;
+    left: 1150px;
+    top: 30px;
+}
+.l8{
+    position: absolute;
+    left: 1220px;
+    top: 30px;
+}
+
+
+#search{
+    position: absolute;
+    left: 280px;
+    top:25px;
+    height: 40px;
+    width:500px;
+}

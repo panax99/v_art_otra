@@ -1,4 +1,3 @@
-
 import header from './header.module.css'
 
 function Header(){
@@ -15,13 +14,13 @@ function Header(){
                     <a href="/" className={header.link}>Home</a>
                 </div>
                 <div className={header.l2}>
-                    <a href="/" className={header.link}>Paint</a>
+                    <a href="/Paint" className={header.link}>Paint</a>
                 </div>
                 <div className={"container "+header.l3}>
-                    <a href="/" className={header.link}>Crafting</a>
+                    <a href="/Crafting" className={header.link}>Crafting</a>
                 </div>
                 <div className={"container "+header.l4}>
-                    <a href="/" className={header.link}>Sculpture</a>
+                    <a href="/Sculptur" className={header.link}>Sculpture</a>
                 </div>
                 <div className={"container "+header.l5}>
                     <a href="/" className={header.link}>Book</a>

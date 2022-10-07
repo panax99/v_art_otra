@@ -22,9 +22,8 @@
 .Title_1{
     position: absolute;
     left: 100px;
-    top: -20px;
+    top: 10px;
     color: #ffffff;
-    font-family: "Myriad Pro";
     font-size: 48px;
     font-weight: 400;
     display: flex;
@@ -85,7 +84,6 @@
     width: 124px;
     height: 66.7px;
     color: #ffffff;
-    font-family: "Myriad Pro";
     font-size: 18px;
     font-weight: 400;
     text-align: center;
@@ -101,7 +99,6 @@
     width: 162px;
     height: 66.7px;
     color: #ffffff;
-    font-family: "Myriad Pro";
     font-size: 18px;
     font-weight: 400;
     text-align: center;
@@ -117,7 +114,6 @@
     width: 162px;
     height: 66.7px;
     color: #ffffff;
-    font-family: "Myriad Pro";
     font-size: 18px;
     font-weight: 400;
     text-align: center;
@@ -133,7 +129,6 @@
     width: 162px;
     height: 66.7px;
     color: #ffffff;
-    font-family: "Myriad Pro";
     font-size: 18px;
     font-weight: 400;
     text-align: center;
@@ -149,7 +144,6 @@
     width: 162px;
     height: 66.7px;
     color: #ffffff;
-    font-family: "Myriad Pro";
     font-size: 18px;
     font-weight: 400;
     text-align: center;
@@ -176,7 +170,6 @@
     top: 0px;
     width: 219px;
     height: 59px;
-    font-family: "Myriad Pro";
     font-size: 48px;
     font-weight: 400;
     display: flex;
@@ -199,7 +192,6 @@
     top: 72px;
     width: 60px;
     height: 36px;
-    font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
     display: flex;
@@ -216,7 +208,6 @@
     background: #9b9a9a;
     background-blend-mode: normal;
     /*text*/
-    font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
     text-align: center;
@@ -241,7 +232,6 @@
     background: #9b9a9a;
     background-blend-mode: normal;
     /*text*/
-    font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
     text-align: center;
@@ -267,7 +257,6 @@
     background: #9b9a9a;
     background-blend-mode: normal;
     /*text*/
-    font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
     text-align: center;
@@ -293,7 +282,6 @@
     background: #9b9a9a;
     background-blend-mode: normal;
     /*text*/
-    font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
     text-align: center;
@@ -311,7 +299,7 @@
 
 /* div for list of article*/
 .article_liste{
-    position: fixed;
+    position: relative;
     left: 260px;
     top: 90px;
     width: 1020px;

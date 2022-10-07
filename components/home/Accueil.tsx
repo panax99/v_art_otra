@@ -50,7 +50,7 @@ function Accueil(){
             </div>
             <div className="fill">
                 <img src="craft.png" className={"jumbotron "+accueil.ct1}/>
-                <a href="/" className={accueil.ll1}>Paint</a>
+                <a href="/Paint" className={accueil.ll1}>Paint</a>
             </div>
             <div className={"jumbotron "+accueil.ct2}>
                 <a href="/" className={accueil.ll2}>Sculpture</a>

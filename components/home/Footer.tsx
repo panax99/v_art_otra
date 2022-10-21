@@ -5,8 +5,10 @@ function Footer(){
     return(
         <>
             <div className={"navbar navbar-dark bg-dark "+footer.ft}>
-                
-                <p className="text-light">Copyright 2022</p>
+                <h3 className="text-light" style={{marginLeft:'20px',marginBottom:'70px'}}>V'Art'Otra</h3><br/>
+                <br/>
+                <h6 className="text-light" style={{position:'absolute',top:'52px',left:'22px'}}>The website for all<br/> of your art research.</h6>
+                <h6 className="text-light" style={{position:'absolute',top:'52px',left:'1210px'}}>Copyright 2022</h6>
             </div>
         </>
     )

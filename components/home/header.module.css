@@ -3,13 +3,6 @@
   
 }
 
-.link{
-    color: white;
-    font-size:larger;
-    font-weight:bolder;
-    text-decoration: none;
-}
-
 .title{
     position: absolute;
     left: 100px;
@@ -63,5 +56,5 @@
     left: 280px;
     top:25px;
     height: 40px;
-    width:500px;
+    width:511px;
 }

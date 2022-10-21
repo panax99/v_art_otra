@@ -4,6 +4,7 @@ import Image from 'next/image'
 import Accueil from '../components/home/Accueil'
 import Footer from '../components/home/Footer'
 import Header from '../components/home/Header'
+import Register from '../components/Inscripotion_page/Register'
 
 const Home: NextPage = () => {
   return (

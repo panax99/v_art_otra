@@ -14,7 +14,7 @@ function Accueil(){
             <Sary/>
             <BestSales/>
             <Category/> 
-            <Propose/>      
+            <Propose/>              
             <Footer/>
         </>
     )

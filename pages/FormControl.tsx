@@ -1,4 +1,4 @@
-function FormControl(props){
+function FormControl(){
     return <>
     <form className="user">
             <input className="input_email input_styled" type="email" id="IdEmail" aria-describedby="emailHelp" placeholder="Email" name="email" />

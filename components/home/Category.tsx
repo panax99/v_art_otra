@@ -8,20 +8,20 @@ function Category(){
                 <h1 className={accueil.tt}>Category</h1>
         </div>
         <div className="fill">
-            <a href="#"><img src="paint.gif" className={accueil.ct1}/></a>            
+            <a href="/paint"><img src="paint.gif" className={accueil.ct1}/></a>            
         </div>
         <div >
-            <a href="#">
+            <a href="/crafting">
             <img src="/craft.gif" style={{}} className={accueil.ct2}/>
             </a>
         </div>
         <div>
-            <a href="#">
+            <a href="/sculpture">
             <img src="/sculpture.gif" style={{}} className={accueil.ct3}/>
             </a>
         </div>
         <div >
-            <a href="#" style={{}}>
+            <a href="/books" style={{}}>
             <img src="/books.gif" style={{}} className={accueil.ct4}/>
             </a>        
         </div>

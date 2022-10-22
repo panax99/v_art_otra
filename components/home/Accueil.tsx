@@ -12,7 +12,7 @@ function Accueil(){
             <Header/>
             <Sary/>
             <BestSales/>
-            <Category/> 
+            
             <Propose/>              
             <Footer/>
         </>

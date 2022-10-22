@@ -36,8 +36,8 @@ function BestSales(){
                         </div>
                         <h5 className="card-title" style={{marginTop:'15px'}}>Harona vita rofia</h5>
                         <p className="card-text" style={{marginTop:'15px'}}>Price : 10000 Ar</p>
-                        <Link href="#" className="btn btn-primary">Show</Link>
-                        <Link href="#" className="btn btn-dark" style={{marginLeft:'5px'}}>Buy</Link>
+                        <button className="btn btn-primary">Show</button>
+                        <button className="btn btn-dark" style={{marginLeft:'5px'}}>Buy</button>
                     </div>
                 </div>
                 <div className={accueil.card+" "+accueil.c_0}>
@@ -64,8 +64,8 @@ function BestSales(){
                         </div>
                         <h5 className="card-title" style={{marginTop:'15px'}}>Harona vita rofia</h5>
                         <p className="card-text" style={{marginTop:'15px'}}>Price : 10000 Ar</p>
-                        <Link href="#" className="btn btn-primary">Show</Link>
-                        <Link href="#" className="btn btn-dark" style={{marginLeft:'5px'}}>Buy</Link>
+                        <button className="btn btn-primary">Show</button>
+                        <button className="btn btn-dark" style={{marginLeft:'5px'}}>Buy</button>
                     </div>
                 </div>
                 <div className={accueil.card+" "+accueil.c_0}>
@@ -92,8 +92,8 @@ function BestSales(){
                         </div>
                         <h5 className="card-title" style={{marginTop:"15px"}}>Harona vita rofia</h5>
                         <p className="card-text" style={{marginTop:'15px'}}>Price : 10000 Ar</p>
-                        <button to="/product" className="btn btn-primary">Show</button>
-                        <button to="/product" className="btn btn-dark" style={{marginLeft:'5px'}}>Buy</button>
+                        <button className="btn btn-primary">Show</button>
+                        <button className="btn btn-dark" style={{marginLeft:'5px'}}>Buy</button>
                     </div>
                 </div>
             </div>

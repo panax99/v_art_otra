@@ -2,7 +2,7 @@
 function Propose(){
     return(
         <>
-        <div style={{background:'ghostwhite',marginTop:'35px',marginBottom:'60px'}}>
+        <div style={{background:'ghostwhite',marginBottom:'25px'}}>
             <div className="container" style={{
                 width:'650px',
                 height:'380px',
@@ -14,13 +14,13 @@ function Propose(){
                 }}>
 
             </div>
-            <div className="jumbotron" style={{marginLeft:'675px',marginTop:'-360px'}}>
-                <p style={{fontSize:'45px'}}>
+            <div className="jumbotron">
+                <p style={{fontSize:'45px',position:'absolute',top:'1640px',left:'700px'}}>
                     What this website<br/>propose to you?
                 </p>
-                <p style={{fontSize:'20px'}}>Our first initiative is to promote Malagasy Art in every aspects<br/> of his beauty. That is a platform that help the customers to find <br/>what they need and the artists to expose their art.</p>
-                <input type="text" className="form-control form-control-dark" style={{width:'200px'}} name="" id="" />
-                <button className="btn btn-dark" style={{marginLeft:'215px',marginTop:'-63px'}}>Send Feedback</button>
+                <p style={{position:'absolute',top:'1800px',left:'700px',fontSize:'20px'}}>Our first initiative is to promote Malagasy Art in every aspects<br/> of his beauty. That is a platform that help the customers to find <br/>what they need and the artists to expose their art.</p>
+                <input type="text" className="form-control form-control-dark" style={{position:'absolute',top:'1920px',left:'800px',width:'200px'}} name="" id="" />
+                <button className="btn btn-dark" style={{position:'absolute',top:'1920px',left:'1010px'}}>Send Feedback</button>
             </div>
         </div>
         </>

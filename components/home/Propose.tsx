@@ -15,7 +15,7 @@ function Propose(){
 
             </div>
             <div className="jumbotron">
-                <p style={{fontSize:'45px',position:'absolute',top:'360px',left:'700px'}}>
+                <p style={{fontSize:'45px'}}>
                     What this website<br/>propose to you?
                 </p>
                 <p style={{fontSize:'20px'}}>Our first initiative is to promote Malagasy Art in every aspects<br/> of his beauty. That is a platform that help the customers to find <br/>what they need and the artists to expose their art.</p>

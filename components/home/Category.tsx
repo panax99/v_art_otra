@@ -8,21 +8,21 @@ function Category(){
                 <h1 className={accueil.tt}>Category</h1>
         </div>
         <div className="fill">
-            <a href="#"><Image src="paint.gif" className={"jumbotron "+accueil.ct1}/></a>            
+            <a href="#"><img src="paint.gif" className={"jumbotron "+accueil.ct1}/></a>            
         </div>
         <div >
             <a href="#">
-            <Image src="/craft.gif" style={{}} className={"jumbotron "+accueil.ct2}/>
+            <img src="/craft.gif" style={{}} className={"jumbotron "+accueil.ct2}/>
             </a>
         </div>
         <div>
             <a href="#">
-            <Image src="/sculpture.gif" style={{}} className={"jumbotron "+accueil.ct3}/>
+            <img src="/sculpture.gif" style={{}} className={"jumbotron "+accueil.ct3}/>
             </a>
         </div>
         <div >
             <a href="#" style={{}}>
-            <Image src="/books.gif" style={{}} className={"jumbotron "+accueil.ct4}/>
+            <img src="/books.gif" style={{}} className={"jumbotron "+accueil.ct4}/>
             </a>        
         </div>
     </div>

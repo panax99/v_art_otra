@@ -14,7 +14,7 @@ function Propose(){
                 }}>
 
             </div>
-            <div className="jumbotron">
+            <div className="jumbotron" style={{marginLeft:'660px',marginTop:'-360px'}}>
                 <p style={{fontSize:'45px',marginTop:'200px'}}>
                     What this website<br/>propose to you?
                 </p>

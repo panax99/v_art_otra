@@ -4,7 +4,7 @@ export default function Sary(){
     return(
         <>
             <div className={accueil.fill}>
-            <img src="fond.png" className="i" alt="papa"/>
+                <img src="fond.png" className="{accueil.fill}" alt="papa"/>
             <div className="container" 
             style={
                 {

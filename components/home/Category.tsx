@@ -1,5 +1,6 @@
 import accueil from "./accueil.module.css"
 import Image from "next/image"
+import Link from "next/link"
 function Category(){
     return(
     <>
@@ -8,22 +9,22 @@ function Category(){
                 <h1 className={accueil.tt}>Category</h1>
         </div>
         <div className="fill">
-            <a href="#"><Image src="paint.gif" className={"jumbotron "+accueil.ct1}/></a>            
+            <Link href="#"><Image src="paint.gif" alt="test" className={"jumbotron "+accueil.ct1}/></Link>            
         </div>
         <div >
-            <a href="#">
-            <Image src="/craft.gif" className={"jumbotron "+accueil.ct2}/>
-            </a>
+            <Link href="#">
+            <Image src="/craft.gif" alt="test" className={"jumbotron "+accueil.ct2}/>
+            </Link>
         </div>
         <div>
-            <a href="#">
-            <Image src="/sculpture.gif" className={"jumbotron "+accueil.ct3}/>
-            </a>
+            <Link href="#">
+            <Image src="/sculpture.gif" alt="test" className={"jumbotron "+accueil.ct3}/>
+            </Link>
         </div>
         <div >
-            <a href="#" style={{}}>
-            <Image src="/books.gif" className={"jumbotron "+accueil.ct4}/>
-            </a>        
+            <Link href="#">
+            <Image src="/books.gif" alt="test" className={"jumbotron "+accueil.ct4}/>
+            </Link>        
         </div>
     </div>
     </>

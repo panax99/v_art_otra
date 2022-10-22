@@ -13,7 +13,7 @@ function Header(){
                     </div>
                 </div>
                 <div className={header.l1}>
-                    <Link to="/"><h2 className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none'}}>Home</h2></Link>
+                    <Link to="/"><h2 classname="text-light" style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none'}}>Home</h2></Link>
                 </div>
                 <div style={{width:'55px',height:'2px',background:'white',position:'absolute',left:'150px',top:'134px'}}></div>
                 <div className={header.l2}>

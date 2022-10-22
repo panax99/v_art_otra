@@ -20,7 +20,7 @@ function Propose(){
                 </p>
                 <p style={{fontSize:'20px'}}>Our first initiative is to promote Malagasy Art in every aspects<br/> of his beauty. That is a platform that help the customers to find <br/>what they need and the artists to expose their art.</p>
                 <input type="text" className="form-control form-control-dark" style={{width:'200px'}} name="" id="" />
-                <button className="btn btn-dark" style={{marginLeft:'215px',marginTop:'-57px'}}>Send Feedback</button>
+                <button className="btn btn-dark" style={{marginLeft:'215px',marginTop:'-59px'}}>Send Feedback</button>
             </div>
         </div>
         </>

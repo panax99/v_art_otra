@@ -12,17 +12,17 @@ function Category(){
         </div>
         <div >
             <a href="#">
-            <Image src="/craft.gif" alt="" style={{}} className={"jumbotron "+accueil.ct2}/>
+            <Image src="/craft.gif" className={"jumbotron "+accueil.ct2}/>
             </a>
         </div>
         <div>
             <a href="#">
-            <Image src="/sculpture.gif" alt="" style={{}} className={"jumbotron "+accueil.ct3}/>
+            <Image src="/sculpture.gif" className={"jumbotron "+accueil.ct3}/>
             </a>
         </div>
         <div >
             <a href="#" style={{}}>
-            <Image src="/books.gif" alt="" style={{}} className={"jumbotron "+accueil.ct4}/>
+            <Image src="/books.gif" className={"jumbotron "+accueil.ct4}/>
             </a>        
         </div>
     </div>

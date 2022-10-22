@@ -36,7 +36,7 @@ function BestSales(){
                         </div>
                         <h5 className="card-title" style={{marginTop:'15px'}}>Harona vita rofia</h5>
                         <p className="card-text" style={{marginTop:'15px'}}>Price : 10000 Ar</p>
-                        <button className="btn btn-primary">Show</button>
+                        <button className="btn btn-dark" style={{background:'white',color:'black'}}>Show</button>
                         <button className="btn btn-dark" style={{marginLeft:'5px'}}>Buy</button>
                     </div>
                 </div>
@@ -64,7 +64,7 @@ function BestSales(){
                         </div>
                         <h5 className="card-title" style={{marginTop:'15px'}}>Harona vita rofia</h5>
                         <p className="card-text" style={{marginTop:'15px'}}>Price : 10000 Ar</p>
-                        <button className="btn btn-primary">Show</button>
+                        <button className="btn btn-dark" style={{background:'white',color:'black'}}>Show</button>
                         <button className="btn btn-dark" style={{marginLeft:'5px'}}>Buy</button>
                     </div>
                 </div>
@@ -92,7 +92,7 @@ function BestSales(){
                         </div>
                         <h5 className="card-title" style={{marginTop:"15px"}}>Harona vita rofia</h5>
                         <p className="card-text" style={{marginTop:'15px'}}>Price : 10000 Ar</p>
-                        <button className="btn btn-primary">Show</button>
+                        <button className="btn btn-dark" style={{background:'white',color:'black'}}>Show</button>
                         <button className="btn btn-dark" style={{marginLeft:'5px'}}>Buy</button>
                     </div>
                 </div>

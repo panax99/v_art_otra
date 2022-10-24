@@ -13,7 +13,7 @@ function Header(){
                     </div>
                 </div>
                 <div className={header.l1}>
-                    <Link href="#" style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none'}}>Home</Link>
+                    <Link href="#"><h3 style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none'}}>Home</h3></Link>
                 </div>
                 <div style={{width:'55px',height:'2px',background:'white',position:'absolute',left:'150px',top:'134px'}}></div>
                 <div className={header.l2}>
@@ -41,5 +41,5 @@ function Header(){
            </div>
         </>
     )
-}
+},
 export default Header

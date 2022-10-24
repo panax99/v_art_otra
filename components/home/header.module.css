@@ -3,7 +3,7 @@
   
 }
 .link:hover{
-    box-shadow: 5px 3px 6px 5px;
+    clip-path: polygon(0% 100%, 0% 0%, 100% 0%, 100% 100%);
     
 }
 

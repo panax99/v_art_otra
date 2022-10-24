@@ -13,32 +13,32 @@ function Header(){
                     </div>
                 </div>
                 <div className={header.l1}>
-                    <Link href="#">
+                    <Link href="/">
                         <p style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none'}}>Home</p>
                     </Link>
                 </div>
                 <div style={{width:'55px',height:'2px',background:'white',position:'absolute',left:'150px',top:'134px'}}></div>
                 <div className={header.l2}>
-                    <a href="/paint"><p className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Paint</p></a>
+                    <a href="/paint" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Paint</a>
                 </div>
                 <div className={"container "+header.l3}>
-                    <Link href="/crafting"><p className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Crafting</p></Link>
+                    <a href="/crafting" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Crafting</a>
                 </div>
                 <div className={"container "+header.l4}>
-                    <Link href="/sculpture" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Sculpture</Link>
+                    <a href="/sculpture" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Sculpture</a>
                 </div>
                 <div className={"container "+header.l5 } 
                     style={{ color:"white"}}>
-                    <Link href="/books" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none'}}>Book</Link>
+                    <a href="/books" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none'}}>Book</a>
                 </div>
                 <div className={"container "+header.l6} >
-                    <Link href="/others" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Others</Link>
+                    <a href="/others" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Others</a>
                 </div>
                 <div className={"container "+header.l7}>
-                    <Link href="/login" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Login</Link>
+                    <a href="/login" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Login</a>
                 </div>
                 <div className={header.l8}>
-                    <Link href="/register" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Sign-Up</Link>
+                    <a href="/register" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Sign-Up</a>
                 </div>
            </div>
         </>

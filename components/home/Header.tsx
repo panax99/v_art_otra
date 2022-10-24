@@ -19,10 +19,10 @@ function Header(){
                 </div>
                 <div style={{width:'55px',height:'2px',background:'white',position:'absolute',left:'150px',top:'134px'}}></div>
                 <div className={header.l2}>
-                    <Link href="/paint" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Paint</Link>
+                    <Link href="/paint"><p className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Paint</p></Link>
                 </div>
                 <div className={"container "+header.l3}>
-                    <Link href="/crafting" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Crafting</Link>
+                    <Link href="/crafting"><p className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Crafting</p></Link>
                 </div>
                 <div className={"container "+header.l4}>
                     <Link href="/sculpture" className={header.link} style={{ color:"white", fontSize:'larger', fontWeight:'bolder', textDecoration:'none' }}>Sculpture</Link>
